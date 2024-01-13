@@ -17,7 +17,7 @@ body{
     background-color:rgb(184, 163, 221);
     border: 2px solid rgb(29, 3, 49) ;
     border-radius: 20px;
-    width: 200px;
+    width: 400px;
     height:300px;
     padding: 50px 10px 50px 10px     /*top,right,bottom,left */   
 }
