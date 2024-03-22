@@ -2,8 +2,20 @@ body{
     text-align: center; 
     background-color:rgb(255, 255, 255);
     font-family: "Times New Roman", Times, serif;
+    background-color:rgb(184, 163, 221);
    }
  h3{
     font-family: "Times New Roman", Times, serif;
-    font size: 100px;%;
+    font-size: 60px;
+    background-color:rgb(106, 79, 151);
+ }
+ img{
+   border: 5px solid rgb(29, 3, 49) ;
+   border-radius: 50px;
+   border-width: 10px;
+ }
+ p{
+   font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+   
  }

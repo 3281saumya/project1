@@ -2,7 +2,6 @@ body{
  text-align: center; 
  background-color:rgb(255, 255, 255);
 }
-
 .container {
     overflow-y:scroll;
     font-family: "Times New Roman", Times, serif;
