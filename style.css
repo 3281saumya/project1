@@ -5,7 +5,7 @@ body{
 
 .container {
     overflow-y:scroll;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     img{
         float: left; }
         height: 280px;
