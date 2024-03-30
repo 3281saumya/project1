@@ -4,6 +4,7 @@ body{
 }
 .container {
     overflow-y:scroll;
+    font-size: 20px;
     font-family: "Times New Roman", Times, serif;
     img{
         float: left; }
@@ -16,11 +17,11 @@ body{
     align-content: center;
     margin: 50px;
     font-family: "Times New Roman", Times, serif;
-    background-color:rgb(184, 163, 221);
+    background-color:rgb(198 207 128 / 70%);
     border: 5px solid rgb(29, 3, 49) ;
     border-radius: 20px;
     width: 90%;
-    height:300px;
+    height:250px;
     padding: 50px 10px 50px 10px ;    /*top,right,bottom,left */   
     font-size:25px;
     width : 70;
