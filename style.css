@@ -1,6 +1,6 @@
 body{
  text-align: center; 
- background-color:rgb(127, 108, 147);
+ background-color:rgb(187, 183, 238);
 }
 .container {
     overflow-y:scroll;
@@ -17,7 +17,7 @@ body{
     align-content: center;
     margin: 50px;
     font-family: "Times New Roman", Times, serif;
-    background-color:rgb(198 207 128 / 70%);
+    background-color:rgba(38, 181, 200, 0.7);
     border: 5px solid rgb(29, 3, 49) ;
     border-radius: 20px;
     width: 90%;
